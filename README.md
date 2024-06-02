@@ -9,10 +9,6 @@ For full tutorial explanation on Amazon Transcribe post call analytics; read thi
 
 - 2) transcribe_jobs_results.py: It has Python module which extracts Post Call Analytics results from transcribe jobs. The analytics include transcripts, sentiment analysis, call characteristics, call summarization, and call categorization.
 
-## To run the modules
-- python transcribe_jobs_results.py
-- pyhton transcribe_jobs_results.py
-
 ## Python Packaging:
 - Python 3.8.10
 - pandas==1.1.5
@@ -20,3 +16,7 @@ For full tutorial explanation on Amazon Transcribe post call analytics; read thi
 - requests==2.27.1
 - retry==0.9.2
 - loguru==0.7.2
+
+## To run the modules:
+- python transcribe_jobs_results.py
+- pyhton transcribe_jobs_results.py
